@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\ToDoList\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|d:\\project\\todolist\\todolist\\repository\\mongobaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|solutionrelative:repository\\mongobaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DD1E7-3423-42C7-BE67-5864B8CA9181}|Application\\Application.csproj|d:\\project\\todolist\\todolist\\application\\user\\useroperationexampleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194DD1E7-3423-42C7-BE67-5864B8CA9181}|Application\\Application.csproj|solutionrelative:application\\user\\useroperationexampleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DD1E7-3423-42C7-BE67-5864B8CA9181}|Application\\Application.csproj|d:\\project\\todolist\\todolist\\application\\user\\iuseroperationexampleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194DD1E7-3423-42C7-BE67-5864B8CA9181}|Application\\Application.csproj|solutionrelative:application\\user\\iuseroperationexampleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DD1E7-3423-42C7-BE67-5864B8CA9181}|Application\\Application.csproj|d:\\project\\todolist\\todolist\\application\\user\\requestmodel\\userinforeq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194DD1E7-3423-42C7-BE67-5864B8CA9181}|Application\\Application.csproj|solutionrelative:application\\user\\requestmodel\\userinforeq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DD1E7-3423-42C7-BE67-5864B8CA9181}|Application\\Application.csproj|d:\\project\\todolist\\todolist\\application\\user\\requestmodel\\userinfobypagelistreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194DD1E7-3423-42C7-BE67-5864B8CA9181}|Application\\Application.csproj|solutionrelative:application\\user\\requestmodel\\userinfobypagelistreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|d:\\project\\todolist\\todolist\\repository\\domain\\user\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|solutionrelative:repository\\domain\\user\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|d:\\project\\todolist\\todolist\\repository\\repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|d:\\project\\todolist\\todolist\\repository\\repositories\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|d:\\project\\todolist\\todolist\\repository\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|solutionrelative:repository\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910B9B37-69B4-4309-AA58-F16F48961B5A}|WebApi\\WebApi.csproj|d:\\project\\todolist\\todolist\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910B9B37-69B4-4309-AA58-F16F48961B5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|d:\\project\\todolist\\todolist\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|solutionrelative:repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|d:\\project\\todolist\\todolist\\repository\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|solutionrelative:repository\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|d:\\project\\todolist\\todolist\\repository\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|d:\\project\\todolist\\todolist\\repository\\interface\\imongoconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\imongoconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910B9B37-69B4-4309-AA58-F16F48961B5A}|WebApi\\WebApi.csproj|d:\\project\\todolist\\todolist\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910B9B37-69B4-4309-AA58-F16F48961B5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|d:\\project\\todolist\\todolist\\repository\\mongoconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE4868-740D-40F9-8BCE-FECE175C597B}|Repository\\Repository.csproj|solutionrelative:repository\\mongoconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserOperationExampleServices.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Application\\User\\UserOperationExampleServices.cs",
+              "RelativeDocumentMoniker": "Application\\User\\UserOperationExampleServices.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Application\\User\\UserOperationExampleServices.cs",
+              "RelativeToolTip": "Application\\User\\UserOperationExampleServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:48:12.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInfoReq.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Application\\User\\RequestModel\\UserInfoReq.cs",
+              "RelativeDocumentMoniker": "Application\\User\\RequestModel\\UserInfoReq.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Application\\User\\RequestModel\\UserInfoReq.cs",
+              "RelativeToolTip": "Application\\User\\RequestModel\\UserInfoReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:45:22.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserOperationExampleServices.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Application\\User\\IUserOperationExampleServices.cs",
+              "RelativeDocumentMoniker": "Application\\User\\IUserOperationExampleServices.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Application\\User\\IUserOperationExampleServices.cs",
+              "RelativeToolTip": "Application\\User\\IUserOperationExampleServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:58:34.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoBaseRepository.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Repository\\MongoBaseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MongoBaseRepository.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Repository\\MongoBaseRepository.cs",
+              "RelativeToolTip": "Repository\\MongoBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:54:08.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserInfoByPageListReq.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Application\\User\\RequestModel\\UserInfoByPageListReq.cs",
+              "RelativeDocumentMoniker": "Application\\User\\RequestModel\\UserInfoByPageListReq.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Application\\User\\RequestModel\\UserInfoByPageListReq.cs",
+              "RelativeToolTip": "Application\\User\\RequestModel\\UserInfoByPageListReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:43:08.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Repository\\Repositories\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\User\\UserRepository.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Repository\\Repositories\\User\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\User\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:52:37.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Repository\\Repositories\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\User\\IUserRepository.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Repository\\Repositories\\User\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\User\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:51:35.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Repository\\Domain\\User\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Repository\\Domain\\User\\UserInfo.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Repository\\Domain\\User\\UserInfo.cs",
+              "RelativeToolTip": "Repository\\Domain\\User\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:44:39.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Repository\\Domain\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Repository\\Domain\\EntityBase.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Repository\\Domain\\EntityBase.cs",
+              "RelativeToolTip": "Repository\\Domain\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:43:09.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:30:51.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Repository\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Repository\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repository\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:26:48.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MongoContext.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Repository\\MongoContext.cs",
+              "RelativeDocumentMoniker": "Repository\\MongoContext.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Repository\\MongoContext.cs",
+              "RelativeToolTip": "Repository\\MongoContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T03:50:34.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T02:49:10.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMongoConnection.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Repository\\Interface\\IMongoConnection.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IMongoConnection.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Repository\\Interface\\IMongoConnection.cs",
+              "RelativeToolTip": "Repository\\Interface\\IMongoConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T03:30:44.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MongoConnection.cs",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\Repository\\MongoConnection.cs",
+              "RelativeDocumentMoniker": "Repository\\MongoConnection.cs",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\Repository\\MongoConnection.cs",
+              "RelativeToolTip": "Repository\\MongoConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T03:33:31.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\project\\ToDoList\\ToDoList\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "D:\\project\\ToDoList\\ToDoList\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T03:23:39.603Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

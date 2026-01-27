@@ -1,0 +1,15 @@
+D:\project\ToDoList\ToDoList\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\project\ToDoList\ToDoList\Repository\bin\Debug\net8.0\Repository.dll
+D:\project\ToDoList\ToDoList\Repository\bin\Debug\net8.0\Repository.pdb
+D:\project\ToDoList\ToDoList\Repository\bin\Debug\net8.0\Infrastructure.dll
+D:\project\ToDoList\ToDoList\Repository\bin\Debug\net8.0\Infrastructure.pdb
+D:\project\ToDoList\ToDoList\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\project\ToDoList\ToDoList\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\ToDoList\ToDoList\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\project\ToDoList\ToDoList\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\project\ToDoList\ToDoList\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\project\ToDoList\ToDoList\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\project\ToDoList\ToDoList\Repository\obj\Debug\net8.0\Repository.dll
+D:\project\ToDoList\ToDoList\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\project\ToDoList\ToDoList\Repository\obj\Debug\net8.0\Repository.pdb
+D:\project\ToDoList\ToDoList\Repository\obj\Debug\net8.0\ref\Repository.dll
