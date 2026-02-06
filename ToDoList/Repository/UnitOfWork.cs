@@ -11,6 +11,7 @@ namespace Repository
     public class UnitOfWork: IUnitOfWork
     {
         private readonly IMongoContext _context;
+        private const string _testgit = "testgit";
 
         public UnitOfWork(IMongoContext context)
         { 
